@@ -1,3 +1,4 @@
+//^ 3.write Program which accept number from user and display its Non factors numbers
 using System;
 class DisplayNonFactors
 {
